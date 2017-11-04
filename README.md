@@ -2,12 +2,12 @@
 在DSYMTools的基础上,新增了解crash的功能,和填入初始偏移量
 
 
-- 你可以点击该链接, 直接下载.app包 <https://github.com/Paulswith/StackTools/blob/master/image/release/StackTools.app.zip>
+- 你可以点击该链接, 直接下载[StackTools.app]<image/release/StackTools.app.zip>
 - 或者在release分支下载
 - 或者git url
 
 
-DSYMTools -> <https://github.com/answer-huang/dSYMTools>
+[DSYMTools]<https://github.com/answer-huang/dSYMTools>
 非常认真的参考了DSYMTools的写法, 第一次写mac桌面版的APP才感受到Appkit和UIKit的diff
 ## 有一点必须承认, 没有太过细化代码和架构, 导致源码浏览不是很清晰, 
 ## 设计略笨拙, 由于时间紧张,我并没有太大优化, 只是加入了新的功能, 如果A君有任何想法,欢迎mail.
