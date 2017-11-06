@@ -2,7 +2,7 @@
 在DSYMTools的基础上,新增了解crash的功能,和填入初始偏移量
 
 
-- 你可以点击该链接, 直接下载[StackTools.app](image/release/StackTools.app.zip)
+- 你可以右键该链接, [链接另存为:StackTools.app](image/release/StackTools.app.zip)
 - 或者在release分支下载
 - 或者git url
 
